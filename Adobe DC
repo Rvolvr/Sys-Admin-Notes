@@ -1,0 +1,19 @@
+# Adobe
+
+Adobe is nice for those which need to use the simplest form of PDF. For an Enterprise organization, it can have some serious hang-ups. 
+
+## License Types
+
+Adobe DC itself has two license levels which are built off of the "Reader" (free) version. Software versions before 15 were licensed by machine, though the newer versions are far worse for the consumer being `as a service` model. Standard and Pro will require the user to login with an email or SSO based account to confirm. Monthly subscriptions are inexpensive (to a business), but invariably they will cost more. 
+
+### Reader
+
+Reader comes with the ability append "Comments" to the document, as well as two types of signatures. One can make a digital certificate and sign documents which seems like the more `official` version, except there is no verification process. The simple signature process will create a custom font or hand written signature which will be affixed to the PDF. 
+
+### Standard
+
+This happens to be the happy middle ground where most users should be. The most used options are the Adobe Printer, combine PDF, and edit PDF. Assigning a licence can be delayed, and cause the program to require an "upgrade". It will send the user an email to download a McAfee bloated version.
+
+### Pro
+
+The only reason I have found to have anyone on the Pro version is to allow for redaction. 
